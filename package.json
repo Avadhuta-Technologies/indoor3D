@@ -1,0 +1,19 @@
+{
+  "name": "indoor-3d",
+  "version": "1.0.1",
+  "description": "This is a javascript lib based on three.js to show an indoor map.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Avadhuta-Technologies/indoor3D.git"
+  },
+  "author": "vinay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Avadhuta-Technologies/indoor3D/issues"
+  },
+  "homepage": "https://github.com/Avadhuta-Technologies/indoor3D#readme"
+}
